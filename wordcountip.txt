@@ -1,0 +1,3 @@
+i am learning hadoop
+i am also learning big data
+and also learning data analytics

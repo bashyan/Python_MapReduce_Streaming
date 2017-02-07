@@ -1,0 +1,2 @@
+hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.6.0.jar -D mapred.reduce.tasks=2 -input /python/phone.txt -output /python/output -mapper /home/bashyan-ubuntu/Documents/python/mapper.py -reducer
+/home/bashyan-ubuntu/Documents/python/reducer.py
